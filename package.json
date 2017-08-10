@@ -11,6 +11,10 @@
     "typedocplugin",
     "typedoc"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bort2012/typedoc-plugin-folder-modules.git"
+  },
   "author": "Reiner Taglang",
   "license": "MIT",
   "peerDependencies": {
