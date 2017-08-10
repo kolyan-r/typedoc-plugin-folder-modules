@@ -1,6 +1,6 @@
 {
   "name": "typedoc-plugin-folder-modules",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Show Folders as Modules on Typedoc by naming the module-folders: name.module",
   "main": "index.js",
   "scripts": {
