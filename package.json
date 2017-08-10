@@ -1,0 +1,24 @@
+{
+  "name": "typedoc-plugin-folder-modules",
+  "version": "0.1.5",
+  "description": "Show Folders as Modules on Typedoc by naming the module-folders: name.module",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "npm run build"
+  },
+  "keywords": [
+    "typedocplugin",
+    "typedoc"
+  ],
+  "author": "Reiner Taglang",
+  "license": "MIT",
+  "peerDependencies": {
+    "typedoc": "^0.8.0"
+  },
+  "devDependencies": {
+    "@types/handlebars": "^4.0.31",
+    "typedoc": "^0.5.3",
+    "typescript": "^2.4.2"
+  }
+}
